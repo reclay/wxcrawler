@@ -1,0 +1,101 @@
+[INFO  - 2015-09-11T02:21:42.186Z] GhostDriver - Main - running on port 55894
+[INFO  - 2015-09-11T02:21:42.484Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.settings - {"XSSAuditingEnabled":false,"javascriptCanCloseWindows":true,"javascriptCanOpenWindows":true,"javascriptEnabled":true,"loadImages":true,"localToRemoteUrlAccessEnabled":false,"userAgent":"Mozilla/5.0 (Macintosh; Intel Mac OS X) AppleWebKit/538.1 (KHTML, like Gecko) PhantomJS/2.0.0 Safari/538.1","webSecurityEnabled":true}
+[INFO  - 2015-09-11T02:21:42.484Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.customHeaders:  - {}
+[INFO  - 2015-09-11T02:21:42.484Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - Session.negotiatedCapabilities - {"browserName":"phantomjs","version":"2.0.0","driverName":"ghostdriver","driverVersion":"1.2.0","platform":"mac-10.9 (Mavericks)-64bit","javascriptEnabled":true,"takesScreenshot":true,"handlesAlerts":false,"databaseEnabled":false,"locationContextEnabled":false,"applicationCacheEnabled":false,"browserConnectionEnabled":false,"cssSelectorsEnabled":true,"webStorageEnabled":false,"rotatable":false,"acceptSslCerts":false,"nativeEvents":true,"proxy":{"proxyType":"direct"}}
+[INFO  - 2015-09-11T02:21:42.484Z] SessionManagerReqHand - _postNewSessionCommand - New Session Created: d75e55f0-582b-11e5-945d-a956e415639f
+[ERROR - 2015-09-11T02:21:45.196Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:21:45.197Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  notifyAll (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  q (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  o (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+
+  :262 in error
+[ERROR - 2015-09-11T02:21:50.523Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:21:50.524Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  define (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  g (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+
+  :262 in error
+[ERROR - 2015-09-11T02:21:55.713Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:21:55.713Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  define (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  g (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:00.634Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:00.634Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  define (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  g (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:05.695Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:05.697Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  define (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  g (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:10.771Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:10.771Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  define (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  g (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:15.820Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:15.821Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  define (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  g (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:23.389Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - msg: ReferenceError: Can't find variable: checkFavorite
+
+  :262 in error
+[ERROR - 2015-09-11T02:22:23.391Z] Session [d75e55f0-582b-11e5-945d-a956e415639f] - page.onError - stack:
+  t (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  (anonymous function) (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+  d (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  define (http://weixin.sogou.com/gzh?openid=oIWsFt1mdY_3guZraCVTSTqnE5U0:4)
+  g (http://weixin.sogou.com/wechat/js/weixin_gzh_pc.min.js?v=1.0:1)
+
+  :262 in error
+[INFO  - 2015-09-11T02:26:42.287Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-09-11T02:31:42.389Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-09-11T02:36:42.138Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-09-11T02:41:42.148Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-09-11T02:46:42.155Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-09-11T02:51:42.163Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
+[INFO  - 2015-09-11T02:51:34.399Z] SessionManagerReqHand - _cleanupWindowlessSessions - Asynchronous Sessions clean-up phase starting NOW
